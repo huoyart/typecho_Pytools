@@ -1,5 +1,7 @@
 # typecho_Pytools
-
+对原始的内容做了一些改动
+可以自动把md的本地图片上传到imgbb，填写api即可
+会自动替换博客内的图片连接
 typecho_Pytools工具由python编写，可以快速批量的在本地发布文章，不需要登陆后台粘贴md文件内容，同时此工具还能查看最新的评论消息。...
 
 使用教学：[B站](https://www.bilibili.com/video/BV1YwAue5ExC/)
